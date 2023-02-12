@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Library.TableData/1.0.0": {
+        "runtime": {
+          "Library.TableData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Library.TableData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

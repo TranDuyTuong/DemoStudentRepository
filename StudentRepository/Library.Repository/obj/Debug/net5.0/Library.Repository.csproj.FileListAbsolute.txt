@@ -1,0 +1,17 @@
+D:\Development_Project\Dev_DemoStudentRepository\DemoStudentRepository\Library.Repository\bin\Debug\net5.0\Library.Repository.deps.json
+D:\Development_Project\Dev_DemoStudentRepository\DemoStudentRepository\Library.Repository\bin\Debug\net5.0\Library.Repository.dll
+D:\Development_Project\Dev_DemoStudentRepository\DemoStudentRepository\Library.Repository\bin\Debug\net5.0\ref\Library.Repository.dll
+D:\Development_Project\Dev_DemoStudentRepository\DemoStudentRepository\Library.Repository\bin\Debug\net5.0\Library.Repository.pdb
+D:\Development_Project\Dev_DemoStudentRepository\DemoStudentRepository\Library.Repository\bin\Debug\net5.0\Library.DomainData.dll
+D:\Development_Project\Dev_DemoStudentRepository\DemoStudentRepository\Library.Repository\bin\Debug\net5.0\Library.TableData.dll
+D:\Development_Project\Dev_DemoStudentRepository\DemoStudentRepository\Library.Repository\bin\Debug\net5.0\Library.DomainData.pdb
+D:\Development_Project\Dev_DemoStudentRepository\DemoStudentRepository\Library.Repository\bin\Debug\net5.0\Library.TableData.pdb
+D:\Development_Project\Dev_DemoStudentRepository\DemoStudentRepository\Library.Repository\obj\Debug\net5.0\Library.Repository.csproj.AssemblyReference.cache
+D:\Development_Project\Dev_DemoStudentRepository\DemoStudentRepository\Library.Repository\obj\Debug\net5.0\Library.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development_Project\Dev_DemoStudentRepository\DemoStudentRepository\Library.Repository\obj\Debug\net5.0\Library.Repository.AssemblyInfoInputs.cache
+D:\Development_Project\Dev_DemoStudentRepository\DemoStudentRepository\Library.Repository\obj\Debug\net5.0\Library.Repository.AssemblyInfo.cs
+D:\Development_Project\Dev_DemoStudentRepository\DemoStudentRepository\Library.Repository\obj\Debug\net5.0\Library.Repository.csproj.CoreCompileInputs.cache
+D:\Development_Project\Dev_DemoStudentRepository\DemoStudentRepository\Library.Repository\obj\Debug\net5.0\Library.Repository.csproj.CopyComplete
+D:\Development_Project\Dev_DemoStudentRepository\DemoStudentRepository\Library.Repository\obj\Debug\net5.0\Library.Repository.dll
+D:\Development_Project\Dev_DemoStudentRepository\DemoStudentRepository\Library.Repository\obj\Debug\net5.0\ref\Library.Repository.dll
+D:\Development_Project\Dev_DemoStudentRepository\DemoStudentRepository\Library.Repository\obj\Debug\net5.0\Library.Repository.pdb

@@ -1,0 +1,11 @@
+D:\Development_Project\Dev_DemoStudentRepository\DemoStudentRepository\Library.TableData\bin\Debug\net5.0\Library.TableData.deps.json
+D:\Development_Project\Dev_DemoStudentRepository\DemoStudentRepository\Library.TableData\bin\Debug\net5.0\Library.TableData.dll
+D:\Development_Project\Dev_DemoStudentRepository\DemoStudentRepository\Library.TableData\bin\Debug\net5.0\ref\Library.TableData.dll
+D:\Development_Project\Dev_DemoStudentRepository\DemoStudentRepository\Library.TableData\bin\Debug\net5.0\Library.TableData.pdb
+D:\Development_Project\Dev_DemoStudentRepository\DemoStudentRepository\Library.TableData\obj\Debug\net5.0\Library.TableData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development_Project\Dev_DemoStudentRepository\DemoStudentRepository\Library.TableData\obj\Debug\net5.0\Library.TableData.AssemblyInfoInputs.cache
+D:\Development_Project\Dev_DemoStudentRepository\DemoStudentRepository\Library.TableData\obj\Debug\net5.0\Library.TableData.AssemblyInfo.cs
+D:\Development_Project\Dev_DemoStudentRepository\DemoStudentRepository\Library.TableData\obj\Debug\net5.0\Library.TableData.csproj.CoreCompileInputs.cache
+D:\Development_Project\Dev_DemoStudentRepository\DemoStudentRepository\Library.TableData\obj\Debug\net5.0\Library.TableData.dll
+D:\Development_Project\Dev_DemoStudentRepository\DemoStudentRepository\Library.TableData\obj\Debug\net5.0\ref\Library.TableData.dll
+D:\Development_Project\Dev_DemoStudentRepository\DemoStudentRepository\Library.TableData\obj\Debug\net5.0\Library.TableData.pdb
